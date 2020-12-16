@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GitHubExercise
+namespace ConsoleApp1
 {
-    class Program
+    partial class Class1
     {
-        static void Main(string[] args)
+        void hello()
         {
+            Console.WriteLine("Hello");
         }
     }
 }
